@@ -18,6 +18,5 @@ const Container = styled.div`
   height: auto;
   width: auto;
   padding-block: 5px;
-  /* background-color: black; */
 `;
 export default Content;
